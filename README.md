@@ -1,4 +1,4 @@
-# currency-converter
+# currency-converter (Conversão de Moedas de vários países)
 
 A simple app that converted values from one currency to another
 
